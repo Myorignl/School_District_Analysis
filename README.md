@@ -5,7 +5,7 @@ The objective of this challenge is to assist the school districts data manager M
 ## School Summary
 ![image](https://user-images.githubusercontent.com/104601282/178362447-b42746c4-b37a-426a-9033-8d9e474c54a9.png)
 
-*Top Performance Schools
+* Top Performance Schools
 ![image](https://user-images.githubusercontent.com/104601282/178362693-add5e745-4216-4b1c-8df3-eea1093f5008.png)
 
 * Lowest Performace Schools
@@ -33,5 +33,6 @@ The objective of this challenge is to assist the school districts data manager M
 ![image](https://user-images.githubusercontent.com/104601282/178365714-009c7785-1e79-49bd-aabd-168321fa66cc.png)
 
 
-#Module Solution
+
+
 
